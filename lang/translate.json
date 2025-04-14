@@ -27,14 +27,14 @@
     "clients": {
       "en": "Our Clients",
       "fr": "Nos Clients",
-      "ar": "عملاؤنا",
+      "ar":" زبناؤنا",
       "ma": "الكليان ديالنا"
     },
     "contact": {
       "en": "Contact",
       "fr": "Contact",
       "ar": "اتصل بنا",
-      "ma": "تواصل معنا"
+      "ma": "عيط لينا"
     }
   },
   "hero": {
@@ -47,8 +47,8 @@
     "description": {
       "en": "Don't buy a used car before our expert mechanics inspect it thoroughly. We come to you for comprehensive diagnostics!",
       "fr": "N'achetez pas une voiture d'occasion avant que nos mécaniciens experts ne l'inspectent minutieusement. Nous nous déplaçons chez vous pour un diagnostic complet !",
-      "ar": "لا تشتري سيارة مستعملة قبل أن يقوم خبراؤنا الميكانيكيون بفحصها بدقة. نأتي إليك لإجراء تشخيص شامل!",
-      "ma": "ماتشريش طوموبيل مستعملة قبل ما يفحصوها الميكانسيانات ديالنا مزيان. كنجيو تالعندك نديرو تشخيص كامل!"
+      "ar": "لا تشتري سيارة مستعملة قبل أن يقوم خبراؤنا الميكانيكيون بفحصها بدقة. نأتي إليك لإجراء تشخيص شامل",
+      "ma": "ماتشريش طوموبيل مستعملة قبل ما يفحصوها الميكانسيانات ديالنا مزيان. كنجيو تالعندك نديرو تشخيص كامل"
     },
     "button1": {
       "en": "Book Inspection",
@@ -168,13 +168,13 @@
       "en": "ASE Master Technician with 15 years experience in automotive diagnostics.",
       "fr": "Technicien Master ASE avec 15 ans d'expérience en diagnostic automobile.",
       "ar": "فني رئيسي معتمد مع 15 سنة خبرة في تشخيص السيارات.",
-      "ma": "تقني ماستر ASE عندو 15 عام تجربة فتشخيص الطوموبيلات."
+      "ma": "عندو 15 عام تجربة فتشخيص الطوموبيلات."
     },
     "position2": {
       "en": "Electrical Specialist",
       "fr": "Spécialiste Électrique",
       "ar": "أخصائي كهرباء",
-      "ma": "أخصائي الضو (الكهرباء)"
+      "ma": " أخصائي الضو (الكهرباء)"
     },
     "bio2": {
       "en": "Expert in modern vehicle electronics and computer systems.",
@@ -235,18 +235,18 @@
     "testimonial1": {
       "en": "\"checkIha saved me from buying a car with hidden flood damage. Their thorough inspection revealed issues I would never have noticed!\"",
       "fr": "\"checkIha m'a évité d'acheter une voiture avec des dégâts d'eau cachés. Leur inspection minutieuse a révélé des problèmes que je n'aurais jamais remarqués !\"",
-      "ar": "\"أنقذني checkIha من شراء سيارة بها أضرار فيضان مخفية. كشف فحصهم الدقيق عن مشاكل لم أكن لألاحظها أبدًا!\"",
+      "ar": "\"أنقذني checkIha من شراء سيارة بها أضرار مخفية. كشف فحصهم الدقيق عن مشاكل لم أكن لألاحظها أبدًا!\"",
       "ma": "\"CheckIha عتقاتني باش مانشريش طوموبيل كانت غارقة فالما ومخبية. الفحص الدقيق ديالهم بين ليا مشاكل ماكنتش غانشوفها كاع!\""
     },
     "testimonial2": {
-      "en": "\"Thanks to their inspection, I negotiated $2,000 off the asking price for needed repairs. The seller couldn't argue with their professional report.\"",
-      "fr": "\"Grâce à leur inspection, j'ai négocié une réduction de 2000 $ sur le prix demandé pour les réparations nécessaires. Le vendeur ne pouvait pas contester leur rapport professionnel.\"",
-      "ar": "\"بفضل فحصهم ، تفاوضت على خصم 2000 دولار من سعر الطلب للإصلاحات اللازمة. لم يستطع البائع المجادلة في تقريرهم المهني.\"",
-      "ma": "\"بفضل الفحص ديالهم، نقصت الثمن على قبل الإصلاحات اللي خاصها. مول الطوموبيل ماقدرش يهضر قدام التقرير المحترف ديالهم.\""
+      "en": "\"Thanks to their inspection, I negotiated 20,000 DH off the asking price for needed repairs. The seller couldn't argue with their professional report.\"",
+      "fr": "\"Grâce à leur inspection, j'ai négocié une réduction de 20,000 DH sur le prix demandé pour les réparations nécessaires. Le vendeur ne pouvait pas contester leur rapport professionnel.\"",
+      "ar": "\"بفضل فحصهم ، تفاوضت على خصم 20,000 درهم من سعر الطلب للإصلاحات اللازمة. لم يستطع البائع المجادلة في تقريرهم المهني.\"",
+      "ma": "\"بفضل الفحص ديالهم، نقصت 20,000 درهم على قبل الإصلاحات اللي خاصها. مول الطوموبيل ماقدرش يهضر قدام التقرير المحترف ديالهم.\""
     },
     "testimonial3": {
       "en": "\"I've used checkIha three times now. Each time they've either saved me from a bad purchase or given me confidence in a good one.\"",
-      "fr": "\"J'ai utilisé checkIha trois fois maintenant. À chaque fois, ils m'ont soit évité un mauvais achat, soit donné confiance dans un bon achat.\"",
+      "fr": "\"J'ai utilisé checkIha trois fois maiدntenant. À chaque fois, ils m'ont soit évité un mauvais achat, soit donné confiance dans un bon achat.\"",
       "ar": "\"لقد استخدمت checkIha ثلاث مرات الآن. في كل مرة إما أنقذوني من شراء سيء أو منحوني الثقة في شراء جيد.\"",
       "ma": "\"استعملت CheckIha تلاتة ديال المرات دابا. كل مرة يا إما كيعتقوني من شي شراء خايب يا إما كيعطيوني الثقة فشي شراء مزيان.\""
     }
@@ -283,7 +283,7 @@
         "en": "Email Us",
         "fr": "Écrivez-nous",
         "ar": "راسلنا",
-        "ma": "صيفط لينا إيمايل"
+        "ma":"صيفط لينا"
       },
       "button": {
         "en": "Send Email",
@@ -346,8 +346,8 @@
       "description": {
         "en": "Serving the greater metropolitan area with mobile inspection services.",
         "fr": "Desservant la grande région métropolitaine avec des services d'inspection mobiles.",
-        "ar": "نخدم منطقة العاصمة الكبرى بخدمات الفحص المتنقلة.",
-        "ma": "كانخدمو فالمدينة الكبيرة و النواحي بخدمات الفحص المتنقلة."
+        "ar": "نخدم منطقة طنجة بخدمات الفحص المتنقلة.",
+        "ma": "كانخدموطنجة و النواحي بخدمات الفحص المتنقلة."
       },
       "hours": {
         "en": "Hours:",
