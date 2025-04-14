@@ -324,7 +324,6 @@
                     })
                     .then(data => {
                         translations = data;
-                        console.log(translations)
                         applyTranslations();
                     })
                     .catch(error => {
@@ -348,7 +347,7 @@
                         }
                         return;
                     }
-                    console.log(getNestedValue(translations, key)[currentLang])
+                
                     // Get translation for current language
                     if (getNestedValue(translations, key) && getNestedValue(translations, key)[currentLang]) {
                         if (element.tagName === 'INPUT' || element.tagName === 'TEXTAREA') {
@@ -400,7 +399,6 @@
             langDropdown.setAttribute('aria-expanded', 'false');
             
             // Here you would add your language change logic
-            console.log('Selected language:', lang);
             // i18next.changeLanguage(lang); // if using i18next
         });
     });
