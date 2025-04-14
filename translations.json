@@ -1,0 +1,310 @@
+{
+  "title": {
+    "en": "CheckIha",
+    "fr": "CheckIha",
+    "ar": "تشيكها"
+  },
+  "nav": {
+    "home": {
+      "en": "Home",
+      "fr": "Accueil",
+      "ar": "الرئيسية"
+    },
+    "service": {
+      "en": "Service",
+      "fr": "Service",
+      "ar": "الخدمات"
+    },
+    "team": {
+      "en": "Our Team",
+      "fr": "Notre Équipe",
+      "ar": "فريقنا"
+    },
+    "clients": {
+      "en": "Our Clients",
+      "fr": "Nos Clients",
+      "ar": "عملاؤنا"
+    },
+    "contact": {
+      "en": "Contact",
+      "fr": "Contact",
+      "ar": "اتصل بنا"
+    }
+  },
+  "hero": {
+    "title": {
+      "en": "Professional Pre-Purchase Car Inspection",
+      "fr": "Inspection professionnelle de voiture avant achat",
+      "ar": "فحص ما قبل الشراء المحترف للسيارات"
+    },
+    "description": {
+      "en": "Don't buy a used car before our expert mechanics inspect it thoroughly. We come to you for comprehensive diagnostics!",
+      "fr": "N'achetez pas une voiture d'occasion avant que nos mécaniciens experts ne l'inspectent minutieusement. Nous nous déplaçons chez vous pour un diagnostic complet !",
+      "ar": "لا تشتري سيارة مستعملة قبل أن يقوم خبراؤنا الميكانيكيون بفحصها بدقة. نأتي إليك لإجراء تشخيص شامل!"
+    },
+    "button1": {
+      "en": "Book Inspection",
+      "fr": "Réserver une inspection",
+      "ar": "حجز فحص"
+    },
+    "button2": {
+      "en": "Learn More",
+      "fr": "En savoir plus",
+      "ar": "معرفة المزيد"
+    }
+  },
+  "service": {
+    "title": {
+      "en": "Our Service",
+      "fr": "Notre Service",
+      "ar": "خدماتنا"
+    },
+    "subtitle": {
+      "en": "We provide comprehensive pre-purchase car inspections to help you make informed buying decisions.",
+      "fr": "Nous fournissons des inspections complètes de voitures avant l'achat pour vous aider à prendre des décisions d'achat éclairées.",
+      "ar": "نقدم فحوصات شاملة للسيارات قبل الشراء لمساعدتك على اتخاذ قرارات شراء مدروسة."
+    },
+    "details": {
+      "title": {
+        "en": "Pre-Purchase Car Inspection",
+        "fr": "Inspection de voiture avant achat",
+        "ar": "فحص السيارة قبل الشراء"
+      },
+      "description": {
+        "en": "Our certified mechanics will accompany you to inspect any used car before you buy it. We provide:",
+        "fr": "Nos mécaniciens certifiés vous accompagneront pour inspecter toute voiture d'occasion avant votre achat. Nous fournissons :",
+        "ar": "سيصاحبك ميكانيكيون معتمدون لفحص أي سيارة مستعملة قبل شرائها. نحن نقدم:"
+      },
+      "item1": {
+        "en": "Comprehensive 150-point inspection",
+        "fr": "Inspection complète de 150 points",
+        "ar": "فحص شامل من 150 نقطة"
+      },
+      "item2": {
+        "en": "Engine and transmission evaluation",
+        "fr": "Évaluation du moteur et de la transmission",
+        "ar": "تقييم المحرك وناقل الحركة"
+      },
+      "item3": {
+        "en": "Suspension and brake system check",
+        "fr": "Vérification de la suspension et du système de freinage",
+        "ar": "فحص نظام التعليق والفرامل"
+      },
+      "item4": {
+        "en": "Electrical system diagnostics",
+        "fr": "Diagnostic du système électrique",
+        "ar": "تشخيص النظام الكهربائي"
+      },
+      "item5": {
+        "en": "Body and frame inspection",
+        "fr": "Inspection de la carrosserie et du châssis",
+        "ar": "فحص الهيكل والهيكل"
+      },
+      "item6": {
+        "en": "Test drive evaluation",
+        "fr": "Évaluation de l'essai routier",
+        "ar": "تقييم اختبار القيادة"
+      },
+      "item7": {
+        "en": "Detailed report with photos",
+        "fr": "Rapport détaillé avec photos",
+        "ar": "تقرير مفصل مع صور"
+      },
+      "item8": {
+        "en": "Fair price estimation",
+        "fr": "Estimation de prix équitable",
+        "ar": "تقدير سعر عادل"
+      },
+      "button": {
+        "en": "Schedule Inspection",
+        "fr": "Planifier une inspection",
+        "ar": "جدولة الفحص"
+      }
+    }
+  },
+  "team": {
+    "title": {
+      "en": "Our Expert Team",
+      "fr": "Notre Équipe d'Experts",
+      "ar": "فريق الخبراء لدينا"
+    },
+    "subtitle": {
+      "en": "Meet our certified mechanics with decades of combined experience.",
+      "fr": "Rencontrez nos mécaniciens certifiés avec des décennies d'expérience combinée.",
+      "ar": "تعرف على ميكانيكيينا المعتمدين ذوي الخبرة الطويلة."
+    },
+    "position1": {
+      "en": "Lead Inspector",
+      "fr": "Inspecteur Principal",
+      "ar": "المفتش الرئيسي"
+    },
+    "bio1": {
+      "en": "ASE Master Technician with 15 years experience in automotive diagnostics.",
+      "fr": "Technicien Master ASE avec 15 ans d'expérience en diagnostic automobile.",
+      "ar": "فني رئيسي معتمد مع 15 سنة خبرة في تشخيص السيارات."
+    },
+    "position2": {
+      "en": "Electrical Specialist",
+      "fr": "Spécialiste Électrique",
+      "ar": "أخصائي كهرباء"
+    },
+    "bio2": {
+      "en": "Expert in modern vehicle electronics and computer systems.",
+      "fr": "Expert en électronique automobile moderne et systèmes informatiques.",
+      "ar": "خبير في إلكترونيات السيارات الحديثة وأنظمة الكمبيوتر."
+    },
+    "position3": {
+      "en": "Engine Specialist",
+      "fr": "Spécialiste Moteur",
+      "ar": "أخصائي محركات"
+    },
+    "bio3": {
+      "en": "Former dealership mechanic specializing in engine performance.",
+      "fr": "Ancien mécanicien de concessionnaire spécialisé dans la performance moteur.",
+      "ar": "ميكانيكي سابق في الوكالة متخصص في أداء المحرك."
+    },
+    "position4": {
+      "en": "Transmission Expert",
+      "fr": "Expert en Transmission",
+      "ar": "خبير ناقل حركة"
+    },
+    "bio4": {
+      "en": "20 years experience in transmission diagnostics and repair.",
+      "fr": "20 ans d'expérience en diagnostic et réparation de transmissions.",
+      "ar": "20 سنة خبرة في تشخيص وإصلاح ناقل الحركة."
+    },
+    "position5": {
+      "en": "Body & Frame Inspector",
+      "fr": "Inspecteur Carrosserie/Châssis",
+      "ar": "مفتش الهيكل والشاسيه"
+    },
+    "bio5": {
+      "en": "Specializes in identifying previous accidents and structural issues.",
+      "fr": "Spécialisé dans l'identification des accidents antérieurs et des problèmes structurels.",
+      "ar": "متخصص في تحديد الحوادث السابقة والمشاكل الهيكلية."
+    }
+  },
+  "clients": {
+    "title": {
+      "en": "Our Satisfied Clients",
+      "fr": "Nos Clients Satisfaits",
+      "ar": "عملاؤنا الراضون"
+    },
+    "subtitle": {
+      "en": "Hear from people who made smart buying decisions with our help.",
+      "fr": "Découvrez les témoignages de personnes qui ont pris des décisions d'achat intelligentes avec notre aide.",
+      "ar": "استمع إلى آراء الأشخاص الذين اتخذوا قرارات شراء ذكية بمساعدتنا."
+    },
+    "testimonial1": {
+      "en": "\"CarCheck Pro saved me from buying a car with hidden flood damage. Their thorough inspection revealed issues I would never have noticed!\"",
+      "fr": "\"CarCheck Pro m'a évité d'acheter une voiture avec des dégâts d'eau cachés. Leur inspection minutieuse a révélé des problèmes que je n'aurais jamais remarqués !\"",
+      "ar": "\"أنقذني CarCheck Pro من شراء سيارة بها أضرار فيضان مخفية. كشف فحصهم الدقيق عن مشاكل لم أكن لألاحظها أبدًا!\""
+    },
+    "testimonial2": {
+      "en": "\"Thanks to their inspection, I negotiated $2,000 off the asking price for needed repairs. The seller couldn't argue with their professional report.\"",
+      "fr": "\"Grâce à leur inspection, j'ai négocié une réduction de 2000 $ sur le prix demandé pour les réparations nécessaires. Le vendeur ne pouvait pas contester leur rapport professionnel.\"",
+      "ar": "\"بفضل فحصهم ، تفاوضت على خصم 2000 دولار من سعر الطلب للإصلاحات اللازمة. لم يستطع البائع المجادلة في تقريرهم المهني.\""
+    },
+    "testimonial3": {
+      "en": "\"I've used CarCheck Pro three times now. Each time they've either saved me from a bad purchase or given me confidence in a good one.\"",
+      "fr": "\"J'ai utilisé CarCheck Pro trois fois maintenant. À chaque fois, ils m'ont soit évité un mauvais achat, soit donné confiance dans un bon achat.\"",
+      "ar": "\"لقد استخدمت CarCheck Pro ثلاث مرات الآن. في كل مرة إما أنقذوني من شراء سيء أو منحوني الثقة في شراء جيد.\""
+    }
+  },
+  "contact": {
+    "title": {
+      "en": "Contact Us",
+      "fr": "Contactez-nous",
+      "ar": "اتصل بنا"
+    },
+    "subtitle": {
+      "en": "Reach out to schedule an inspection or ask questions.",
+      "fr": "Contactez-nous pour planifier une inspection ou poser des questions.",
+      "ar": "تواصل معنا لجدولة فحص أو طرح الأسئلة."
+    },
+    "method1": {
+      "title": {
+        "en": "Call Us",
+        "fr": "Appelez-nous",
+        "ar": "اتصل بنا"
+      },
+      "button": {
+        "en": "Call Now",
+        "fr": "Appeler maintenant",
+        "ar": "اتصل الآن"
+      }
+    },
+    "method2": {
+      "title": {
+        "en": "Email Us",
+        "fr": "Écrivez-nous",
+        "ar": "راسلنا"
+      },
+      "button": {
+        "en": "Send Email",
+        "fr": "Envoyer un email",
+        "ar": "إرسال بريد إلكتروني"
+      }
+    },
+    "method3": {
+      "title": {
+        "en": "Facebook",
+        "fr": "Facebook",
+        "ar": "فيسبوك"
+      },
+      "button": {
+        "en": "Visit Page",
+        "fr": "Visiter la page",
+        "ar": "زيارة الصفحة"
+      }
+    },
+    "method4": {
+      "title": {
+        "en": "Instagram",
+        "fr": "Instagram",
+        "ar": "إنستجرام"
+      },
+      "button": {
+        "en": "Follow Us",
+        "fr": "Suivez-nous",
+        "ar": "تابعنا"
+      }
+    }
+  },
+  "footer": {
+    "description": {
+      "en": "Professional pre-purchase car inspection services to help you buy with confidence.",
+      "fr": "Services professionnels d'inspection de voiture avant achat pour vous aider à acheter en toute confiance.",
+      "ar": "خدمات فحص السيارة المحترفة قبل الشراء لمساعدتك على الشراء بثقة."
+    },
+    "links": {
+      "title": {
+        "en": "Quick Links",
+        "fr": "Liens Rapides",
+        "ar": "روابط سريعة"
+      }
+    },
+    "area": {
+      "title": {
+        "en": "Service Area",
+        "fr": "Zone de Service",
+        "ar": "منطقة الخدمة"
+      },
+      "description": {
+        "en": "Serving the greater metropolitan area with mobile inspection services.",
+        "fr": "Desservant la grande région métropolitaine avec des services d'inspection mobiles.",
+        "ar": "نخدم منطقة العاصمة الكبرى بخدمات الفحص المتنقلة."
+      },
+      "hours": {
+        "en": "Hours:",
+        "fr": "Horaires :",
+        "ar": "الساعات:"
+      }
+    },
+    "rights": {
+      "en": "All Rights Reserved.",
+      "fr": "Tous droits réservés.",
+      "ar": "جميع الحقوق محفوظة."
+    }
+  }
+}
